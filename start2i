@@ -5,6 +5,7 @@
 <body>  
 <p>Welcome 
     configurating git user2
+    and push
 </p>  
 <form>  
 <input type="button" value="click" onclick="msg()"/>  
