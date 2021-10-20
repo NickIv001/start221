@@ -4,8 +4,9 @@
 </head>  
 <body>  
 <p>Welcome 
+first-branch change and push
     configurating git user2
-    and push
+    
 </p>  
 <form>  
 <input type="button" value="click" onclick="msg()"/>  
