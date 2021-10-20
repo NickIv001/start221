@@ -3,7 +3,9 @@
 <script type="text/javascript" src="message.js"></script>  
 </head>  
 <body>  
-<p>Welcome </p>  
+<p>Welcome 
+    configurating git user
+</p>  
 <form>  
 <input type="button" value="click" onclick="msg()"/>  
 </form>  
