@@ -18,12 +18,13 @@ if (t41>100) {console.log(t41+' is bigger then 100');
     console.log(t41+' is NOT bigger then 100');
 }
 
-let t51=2
-let t52=3
-if (t51>t52) {console.log(t51+' is larger then '+t52);
+let t51=5
+let t52=2
+let t53=3
+if (t51>t52 && t51>t53) {console.log(t51+' is larger then '+t52+' and '+t53);
     
 } else {
-    console.log(t51+' is NOT larger then '+t52);
+    console.log(t51+' is NOT larger then '+t52+' and '+t53);
 }
 let t61=40
 let t62=20
