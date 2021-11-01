@@ -2,7 +2,7 @@
 
 //1. Write a JavaScript function to get the last element of anarray
 
-
+console.log('start');
 
 //2. Write a simple JavaScript program to join all elements of the following array into a string
 
