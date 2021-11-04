@@ -1,5 +1,5 @@
 import Vehicle from "./vehicle.js"
-import Car extends Vehicle from "./car.js"
+import Car from "./car.js"
 import Truck from "./truck.js"
 import Motorcycle from "./motorcycle.js"
 import SUV from "./suv.js"
