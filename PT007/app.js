@@ -31,4 +31,4 @@ Vehicle.aboutdisplayinfo ();
 SUV.aboutdisplayinfo (); // should be overriden
 electiricvehicle.envmessage();
 tesla3.envmessage();
-volvotruck.envmessage(); // should be overriden
+volvotruck.envmessage(); // should be override
