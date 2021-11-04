@@ -1,8 +1,8 @@
-import Vehicle from "./vehicle.js"
-import Car from "./car.js"
-import Truck from "./truck.js"
-import Motorcycle from "./motorcycle.js"
-import SUV from "./suv.js"
+import Vehicle from "./vehicle.js";
+import Car from "./car.js";
+import Truck from "./truck.js";
+import Motorcycle from "./motorcycle.js";
+import SUV from "./suv.js";
 
 let electiricvehicle = new Vehicle("Some el. vehicle", 2017, 80);
 electiricvehicle.displayinfo();
