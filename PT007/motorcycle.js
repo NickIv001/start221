@@ -1,3 +1,4 @@
+import Vehicle from "./vehicle.js";
 export default class Motorcycle extends Vehicle {
     constructor(carModel, carYear, maxSpeed, biketype) {
         super(carModel, carYear, maxSpeed);

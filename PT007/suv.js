@@ -1,3 +1,5 @@
+import Vehicle from "./vehicle.js";
+import Car from "./car.js";
 export default class SUV extends Car {
     constructor(carModel, carYear, maxSpeed) {
         super(carModel, carYear, maxSpeed);
